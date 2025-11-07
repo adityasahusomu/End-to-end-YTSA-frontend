@@ -26,6 +26,8 @@ Everything can be run locally and for free — no Chrome Web Store fees and no A
 ⸻
 
 ## 📌 Project Structure
+
+```text
 .
 ├── frontend/               # Chrome extension UI
 │   ├── manifest.json
@@ -38,6 +40,7 @@ Everything can be run locally and for free — no Chrome Web Store fees and no A
 │   ├── tfidf_vectorizer.pkl   # downloaded automatically OR included
 │
 └── README.md
+```
 ---
 
 ## ✅ Cloud Deployment (AWS)
